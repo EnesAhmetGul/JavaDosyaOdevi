@@ -1,7 +1,7 @@
 Merhaba hocam,
 	
 
-	Kodumun 68. satırında liste dosyasını oluşturduğum yeri gösterdim ancak bu
+	Kodumda liste dosyasını oluşturduğum yeri yazarak gösterdim ancak bunun
 benim bilgisayarımın dışında çalışamayacağının farkındayım. Ödevi yaparken bunu 
 nasıl kullanıcıdan alarak yapacağımı ne yazık ki çözemedim. Liste dosyası projenin 
 src dosyasındadır. Bunu path bulma ve benzeri fonksiyonlar kullanarak çözmeye çalıştım 
