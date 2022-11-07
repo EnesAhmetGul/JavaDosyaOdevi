@@ -5,7 +5,9 @@ Merhaba hocam,
 benim bilgisayarımın dışında çalışamayacağının farkındayım. Ödevi yaparken bunu 
 nasıl kullanıcıdan alarak yapacağımı ne yazık ki çözemedim. Liste dosyası projenin 
 src dosyasındadır. Bunu path bulma ve benzeri fonksiyonlar kullanarak çözmeye çalıştım 
-ancak olmadı, direkt dosyanın ismini yazmak da beni yüzüstü bıraktı.
+ancak olmadı, direkt dosyanın ismini yazmak da beni yüzüstü bıraktı. Vaktim de kalmayınca 
+bu yazıyı yazmaktan başka bir çarem kalmadı. Ben yinede deneyeceğim ancak bu metni okuyorsanız 
+başarısız olmuşum demektir.
 
 	Üzülerek yazıyorum ki burada dosya yerini sizin yazmanızı rica etmek durumundayım.
 Tekralıyorum oluşan dosya src klasöründe olacaktır. Saygılarımla...
