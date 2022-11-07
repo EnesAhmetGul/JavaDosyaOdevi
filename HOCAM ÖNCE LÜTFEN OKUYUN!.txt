@@ -1,0 +1,15 @@
+Merhaba hocam,
+	
+
+	Kodumun 68. satırında liste dosyasını oluşturduğum yeri gösterdim ancak bu
+benim bilgisayarımın dışında çalışamayacağının farkındayım. Ödevi yaparken bunu 
+nasıl kullanıcıdan alarak yapacağımı ne yazık ki çözemedim. Liste dosyası projenin 
+src dosyasındadır. Bunu path bulma ve benzeri fonksiyonlar kullanarak çözmeye çalıştım 
+ancak olmadı, direkt dosyanın ismini yazmakta beni yüzüstü bıraktı.
+
+	Üzülerek yazıyorum ki burada dosya yerini sizin yazmanızı rica etmek durumundayım.
+Tekralıyorum oluşan dosya src klasöründe olacaktır. Saygılarımla
+
+
+                                                                       Öğrenciniz
+                                                                      Enes Ahmet Gül
