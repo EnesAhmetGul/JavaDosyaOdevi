@@ -8,7 +8,7 @@ src dosyasındadır. Bunu path bulma ve benzeri fonksiyonlar kullanarak çözmey
 ancak olmadı, direkt dosyanın ismini yazmakta beni yüzüstü bıraktı.
 
 	Üzülerek yazıyorum ki burada dosya yerini sizin yazmanızı rica etmek durumundayım.
-Tekralıyorum oluşan dosya src klasöründe olacaktır. Saygılarımla
+Tekralıyorum oluşan dosya src klasöründe olacaktır. Saygılarımla...
 
 
                                                                        Öğrenciniz
